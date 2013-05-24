@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE JposEntries PUBLIC "JposEntries"
+                             "jpos/res/jcl.dtd">
+<JposEntries>
+<!--Saved by JavaPOS jpos.config/loader (JCL) version 1.2.0 on 2/5/00 5:13 PM-->
+    
+    <JposEntry logicalName="Daruma Jpos">
+        <creation factoryClass="br.com.daruma.jpos.DarumaJposServiceInstanceFactoryImpl" serviceClass="br.com.daruma.jpos.FiscalPrinterControl113Impl"/>
+        <vendor name="Urmet Daruma" url="http://www.ibm.com"/>
+        <jpos category="FiscalPrinter" version="1.13"/>
+        <product description="IBM&apos;s POSPrinter Service for IBM&apos;s 4610 POS Printer" name="IBM Services for JavaPOS(TM) Standard" url="http://www.desenvolvedoresdaruma.com.br"/>
+
+    </JposEntry>
+    
+        
+</JposEntries>
+
